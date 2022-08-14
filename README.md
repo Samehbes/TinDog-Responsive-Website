@@ -1,1 +1,1 @@
-# TinDog Concept-Responsive-Website
+# TinDog-Responsive-Website
